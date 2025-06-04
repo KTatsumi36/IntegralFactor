@@ -37,22 +37,6 @@
             <li><a href="../html/3.php">Materiales</a></li>
         </ul>
     </nav>
-
-    <header>
-        Bienvenid@ al<br> Cuidado del Agua Pluvial
-    </header>
-
-    <nav class="menu-nav">
-        <ul>
-            <li><a href="../html/1.php">Información</a></li>
-            <li><a href="../html/2.php">Importancia de <br> la captación</a></li>
-            <li><a href="../CalculoArea/calculo_area_captacion.php">Calcular Área</a></li>
-            <li><a href="../html/contacto.html">Comentarios</a></li>
-            <li><a href="../Cuestionario/form1.php">Formulario</a></li>
-            <li><a href="../html/3.php">Materiales</a></li>
-        </ul>
-    </nav>
-
     <header>
         Bienvenid@ al<br> Cuidado del Agua Pluvial
     </header>

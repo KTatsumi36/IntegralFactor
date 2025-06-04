@@ -29,9 +29,6 @@
     </ul>
   </nav>
   <!-- ===== FIN MENÚ PLEGABLE ===== -->
-
-=======
-
     <!-- ================================
          NAVBAR (idéntica a tu index.HTML)
          ================================ -->
@@ -42,9 +39,6 @@
             <li><a href="../CalculoArea/calculo_area_captacion.php">Calcular Área</a></li>
 
             <li><a href="../html/contacto.php">Comentarios</a></li>
-=======
-            <li><a href="../html/contacto.html">Comentarios</a></li>
-
             <li><a href="../Cuestionario/form1.php">Formulario</a></li>
             <li><a href="../html/3.php">Materiales</a></li>
         </ul>
